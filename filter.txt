@@ -1,0 +1,2 @@
+! Next line is compatible with AdBlockPlus and uBlock plugins.
+/mp3-ad/*$other,domain=open.spotify.com
